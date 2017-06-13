@@ -22,7 +22,7 @@ ReactDOM.render(
       <Button type="primary">Affix top</Button>
     </Affix>
     <br />
-    <Affix offsetBottom={0}>
+    <Affix offsetBottom={-50}>
       <Button type="primary">Affix bottom</Button>
     </Affix>
   </div>,
